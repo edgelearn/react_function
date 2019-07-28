@@ -14,7 +14,7 @@ yarn start
 
 3. Make the function be the default export.
 
-4. Modify my-app/src to use Component.js instead of App.js in the import line.
+4. Modify my-app/src/index.js to use Component.js instead of App.js in the import line.
 
 5. View the page that was opened during the setup to see the results of your changes.
 
